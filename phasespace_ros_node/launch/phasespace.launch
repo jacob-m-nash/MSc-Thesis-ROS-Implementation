@@ -1,0 +1,7 @@
+<launch>
+ 
+  <param name="mocap_in_use" type="string" value="phasespace"/> 
+  <param name="saving_bag" type="bool" value="true"/>
+ 
+  <node pkg="phasespace" type="phasespace_node" name="phasespace_node" args="192.168.1.41 new_go1_tracker.json 1" output="screen"/> 
+</launch>

@@ -1,0 +1,29 @@
+<package>
+  <name>phasespace</name>
+
+  <version>0.0.1</version>
+
+  <description>PhaseSpace Motion Capture System</description>
+
+  <maintainer email="gregd@phasespace.com">Gregory D'Andrea</maintainer>
+
+  <license>BSD</license>
+
+  <author>Gregory D'Andrea</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>pkg-config</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>std_msgs</build_depend>
+   <build_depend>roslib</build_depend>
+  
+  <run_depend>pkg-config</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>roslib</run_depend>
+
+  <export></export>
+</package>
