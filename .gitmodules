@@ -7,3 +7,6 @@
 [submodule "yolo_detection_msgs"]
 	path = yolo_detection_msgs
 	url = https://github.com/jacob-m-nash/yolo_detection_msgs.git
+[submodule "spot_ros"]
+	path = spot_ros
+	url = https://github.com/jacob-m-nash/spot_ros.git
