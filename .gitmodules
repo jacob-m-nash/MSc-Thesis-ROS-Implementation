@@ -1,0 +1,3 @@
+[submodule "Fire-Detector-ROS-Node"]
+	path = Fire-Detector-ROS-Node
+	url = https://github.com/jacob-m-nash/Fire-Detector-ROS-Node.git
