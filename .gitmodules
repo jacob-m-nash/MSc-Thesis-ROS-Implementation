@@ -1,3 +1,9 @@
 [submodule "Fire-Detector-ROS-Node"]
 	path = Fire-Detector-ROS-Node
 	url = https://github.com/jacob-m-nash/Fire-Detector-ROS-Node.git
+[submodule "yolov5_ros"]
+	path = yolov5_ros
+	url = https://github.com/jacob-m-nash/yolov5_ros.git
+[submodule "yolo_detection_msgs"]
+	path = yolo_detection_msgs
+	url = https://github.com/jacob-m-nash/yolo_detection_msgs.git
